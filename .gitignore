@@ -1,0 +1,8 @@
+/build
+/tests
+/dist
+*.spec
+*.log
+*.tmp
+*.pyc
+*.pyo
