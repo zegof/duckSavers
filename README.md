@@ -13,13 +13,13 @@ Ein kleiner, animierter Bildschirmschoner mit Enten, entwickelt mit PyQt5. Die E
 ### Verwendung
 
 1. Lade eine der .scr-Dateien herunter:
-   - [bouncyDuck.scr](bouncyDuck.scr)
-   - [duckFly.scr](duckFly.scr)
+   - [bouncyDuck.scr herunterladen](https://github.com/zegof/duckSavers/raw/master/bouncyDuck.scr)
+   - [duckFly.scr herunterladen](https://github.com/zegof/duckSavers/raw/master/duckFly.src)
 2. Lege die Datei `duck.png` in denselben Ordner oder verwende ein eigenes Bild mit dem Namen `duck.png`.
-   - [duck.png](duck.png)
-3. Rechtsklick auf die `.scr` Datei und wähle **Installieren**.
-4. Windows öffnet den Dialog für die Bildschirmschoner-Einstellungen.
-5. Wähle "bouncyDuck" oder "duckFly" aus der Liste.
+   - [duck.png herunterladen](https://github.com/zegof/duckSavers/raw/master/duck.png)
+4. Rechtsklick auf die `.scr` Datei und wähle **Installieren**.
+5. Windows öffnet den Dialog für die Bildschirmschoner-Einstellungen.
+6. Wähle "bouncyDuck" oder "duckFly" aus der Liste.
 
 **Hinweis:** Antivirenprogramme könnten `.scr`-Dateien strenger prüfen – die Datei ist jedoch sicher und enthält keine Schadsoftware.
 
@@ -65,13 +65,13 @@ A lightweight animated screensaver featuring cute ducks moving across your scree
 ### How to Use
 
 1. Download one of the `.scr` files:
-    - [bouncyDuck.scr](bouncyDuck.scr)
-    - [duckFly.scr](duckFly.scr)
-2. Place `duck.png` in the same directory, or use your own image named `duck.png`.
+   - [download bouncyDuck.scr](https://github.com/zegof/duckSavers/raw/master/bouncyDuck.src)
+   - [download duckFly.scr](https://github.com/zegof/duckSavers/raw/master/duckFly.src)
+3. Place `duck.png` in the same directory, or use your own image named `duck.png`.
     - [duck.png](duck.png)
-3. Right-click the `.scr` file and select **Install**.
-4. Windows will open the Screen Saver Settings dialog.
-5. Choose “bouncyDuck” or “duckFly” from the dropdown and apply.
+4. Right-click the `.scr` file and select **Install**.
+5. Windows will open the Screen Saver Settings dialog.
+6. Choose “bouncyDuck” or “duckFly” from the dropdown and apply.
 
 **Note:** Some antivirus software may flag `.scr` files. This file is safe and does not contain malware.
 
